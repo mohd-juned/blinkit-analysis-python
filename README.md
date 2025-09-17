@@ -14,8 +14,7 @@ Insights into customer purchase behavior
 Identification of business growth opportunities
 
 📂 Project Structure
-Blinkit_Analysis.ipynb   # Main notebook containing analysis
-README.md                # Project documentation (this file)
+[(Blinkit_Analysis.ipynb)](https://github.com/mohd-juned/blinkit-analysis-python/blob/main/Blinkit_Analysis.ipynb)
 
 ⚙️ Tech Stack
 
