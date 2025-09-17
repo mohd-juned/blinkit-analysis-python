@@ -36,7 +36,7 @@ Jupyter Notebook – Interactive analysis
 
 Download the repository:
 
-git clone https://github.com/your-username/blinkit-analysis.git
+git clone https://github.com/mohd-juned/blinkit-analysis.git
 cd blinkit-analysis
 
 
