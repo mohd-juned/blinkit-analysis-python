@@ -58,3 +58,16 @@ Run Blinkit_Analysis.ipynb to reproduce results.
 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+
+👨‍💻 Author
+
+Mohd Juned
+Data Analyst | Python & Power BI Enthusiast
+
+📬 Contact
+
+GitHub: mohd-juned
+
+LinkedIn: linkedin.com/in/mohd-juned
+
+Email: md.junedphs@gmail.com
