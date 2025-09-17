@@ -31,7 +31,7 @@ Jupyter Notebook – Interactive analysis
 
 📸 Sample Visualizations
 
-(Add screenshots of key plots here after pushing your notebook – e.g. sales trend, category distribution, etc.)
+([Add screenshots of key plots here after pushing your notebook – e.g. sales trend, category distribution, etc.](https://github.com/mohd-juned/blinkit-analysis-python/blob/main/Total%20Sales%20by%20Item.png))
 
 🔧 How to Run
 
